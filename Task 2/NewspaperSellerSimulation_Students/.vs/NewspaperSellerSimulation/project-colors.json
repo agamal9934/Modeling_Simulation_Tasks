@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "11540232-cc4d-4dac-a5d1-7e5b46833955": {
+      "ProjectGuid": "11540232-cc4d-4dac-a5d1-7e5b46833955",
+      "DisplayName": "NewspaperSellerModels",
+      "ColorIndex": 0
+    },
+    "777f3c3e-3ee5-4f53-8de7-b30aab3a3a9a": {
+      "ProjectGuid": "777f3c3e-3ee5-4f53-8de7-b30aab3a3a9a",
+      "DisplayName": "NewspaperSellerSimulation",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
