@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "030cb62a-9d1b-411d-90c7-a74aabd04ec9": {
+      "ProjectGuid": "030cb62a-9d1b-411d-90c7-a74aabd04ec9",
+      "DisplayName": "InventorySimulation",
+      "ColorIndex": 0
+    },
+    "af5cf0ae-2d6b-4a56-bc72-78a2e269f255": {
+      "ProjectGuid": "af5cf0ae-2d6b-4a56-bc72-78a2e269f255",
+      "DisplayName": "InventoryModels",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
